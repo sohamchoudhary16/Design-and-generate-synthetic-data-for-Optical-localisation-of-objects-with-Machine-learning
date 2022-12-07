@@ -6,8 +6,8 @@ To automatically generate data (pictures and annotation files) for shiny objects
 Blender 2.8 or later (https://www.blender.org/download/)
 
 ## Implementation
-* Importing the libraries required
-* Baking the dynamics as needed
+* The required libraries are imported
+* Dynamics are baked according to need
 * Shafts are hidden randomly in every run such that varying number or quantities of shafts are produced
 * The orientation is randomised such that the dynamics will be varied
 * Compositor nodes are created that filter the objects to read on the edged
